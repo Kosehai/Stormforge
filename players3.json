@@ -1,0 +1,2396 @@
+[
+ {
+  "name": "Laewia",
+  "class": 7,
+  "race": 25,
+  "level": 90,
+  "elo": 754
+ },
+ {
+  "name": "Jackblade",
+  "class": 6,
+  "race": 7,
+  "level": 90,
+  "elo": 1507
+ },
+ {
+  "name": "Nospamonk",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1597
+ },
+ {
+  "name": "Ragebienfdr",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1604
+ },
+ {
+  "name": "Mayona",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 1604
+ },
+ {
+  "name": "Frostlight",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 1083
+ },
+ {
+  "name": "Karkhan",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Dodgeblow",
+  "class": 4,
+  "race": 2,
+  "level": 90,
+  "elo": 1190
+ },
+ {
+  "name": "Kamws",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "elo": 381
+ },
+ {
+  "name": "Aragoon",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Caperucita",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "elo": 1515
+ },
+ {
+  "name": "Himiko",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "elo": 930
+ },
+ {
+  "name": "Arkyelt",
+  "class": 6,
+  "race": 2,
+  "level": 90,
+  "elo": 876
+ },
+ {
+  "name": "Lastjedi",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 930
+ },
+ {
+  "name": "Imawizardxd",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "elo": 753
+ },
+ {
+  "name": "Shidaw",
+  "class": 7,
+  "race": 8,
+  "level": 90,
+  "elo": 928
+ },
+ {
+  "name": "Inffi",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Cerit",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 753
+ },
+ {
+  "name": "Feniek",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 566
+ },
+ {
+  "name": "Aura",
+  "class": 9,
+  "race": 8,
+  "level": 90,
+  "elo": 566
+ },
+ {
+  "name": "Antivaxchad",
+  "class": 10,
+  "race": 2,
+  "level": 90,
+  "elo": 568
+ },
+ {
+  "name": "Imawizardxp",
+  "class": 2,
+  "race": 10,
+  "level": 90,
+  "elo": 928
+ },
+ {
+  "name": "Yamazaki",
+  "class": 5,
+  "race": 4,
+  "level": 90,
+  "elo": 1672
+ },
+ {
+  "name": "Bertan",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "elo": 191
+ },
+ {
+  "name": "Rimy",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 662
+ },
+ {
+  "name": "Zabro",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1620
+ },
+ {
+  "name": "Rev",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 663
+ },
+ {
+  "name": "Frostmage",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1522
+ },
+ {
+  "name": "Pajama",
+  "class": 4,
+  "race": 5,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Duffle",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "elo": 383
+ },
+ {
+  "name": "Nhyftwo",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 1994
+ },
+ {
+  "name": "Yani",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Nekkuneke",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 929
+ },
+ {
+  "name": "Majely",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Erase",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1897
+ },
+ {
+  "name": "Sofiee",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Chakra",
+  "class": 5,
+  "race": 4,
+  "level": 90,
+  "elo": 95
+ },
+ {
+  "name": "Lance",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1759
+ },
+ {
+  "name": "Frostie",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 753
+ },
+ {
+  "name": "Vinistenjk",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "elo": 1702
+ },
+ {
+  "name": "Elmolle",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 572
+ },
+ {
+  "name": "Viila",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 929
+ },
+ {
+  "name": "Wp",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1866
+ },
+ {
+  "name": "Nou",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 933
+ },
+ {
+  "name": "Lehus",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 982
+ },
+ {
+  "name": "Frigid",
+  "class": 6,
+  "race": 1,
+  "level": 90,
+  "elo": 380
+ },
+ {
+  "name": "Traktorcat",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Lorndrak",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 982
+ },
+ {
+  "name": "Cliev",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 661
+ },
+ {
+  "name": "Punisherx",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1914
+ },
+ {
+  "name": "Hatchet",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1686
+ },
+ {
+  "name": "Kuma",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Mitoja",
+  "class": 1,
+  "race": 3,
+  "level": 90,
+  "elo": 757
+ },
+ {
+  "name": "Falcorn",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1607
+ },
+ {
+  "name": "Uwugivemesex",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1931
+ },
+ {
+  "name": "Wickedfury",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 1735
+ },
+ {
+  "name": "Zilla",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 661
+ },
+ {
+  "name": "Titangel",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 655
+ },
+ {
+  "name": "Dxr",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1111
+ },
+ {
+  "name": "Chilisauce",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Ybbz",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 1110
+ },
+ {
+  "name": "Ilqpll",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 2184
+ },
+ {
+  "name": "Barzan",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 754
+ },
+ {
+  "name": "Tyrant",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 926
+ },
+ {
+  "name": "Milly",
+  "class": 7,
+  "race": 11,
+  "level": 90,
+  "elo": 286
+ },
+ {
+  "name": "Bosco",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Unstable",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 286
+ },
+ {
+  "name": "Bingchilling",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Fist",
+  "class": 10,
+  "race": 4,
+  "level": 90,
+  "elo": 473
+ },
+ {
+  "name": "Lunishamtwo",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "elo": 1112
+ },
+ {
+  "name": "Rocket",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1394
+ },
+ {
+  "name": "Lambda",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 1228
+ },
+ {
+  "name": "Cadaveria",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Sheephappens",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 753
+ },
+ {
+  "name": "Collab",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Ozki",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Quicc",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 919
+ },
+ {
+  "name": "Svort",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Uwuowoayaya",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 1931
+ },
+ {
+  "name": "Aegle",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Yon",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Chad",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1908
+ },
+ {
+  "name": "Slappie",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Euroshopper",
+  "class": 11,
+  "race": 22,
+  "level": 90,
+  "elo": 568
+ },
+ {
+  "name": "Vivy",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 982
+ },
+ {
+  "name": "Cloudwalker",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1107
+ },
+ {
+  "name": "Celeandra",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 476
+ },
+ {
+  "name": "Cjfly",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1070
+ },
+ {
+  "name": "Foxie",
+  "class": 6,
+  "race": 1,
+  "level": 90,
+  "elo": 380
+ },
+ {
+  "name": "Wastifk",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Dogfood",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Arwyxz",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Supx",
+  "class": 4,
+  "race": 1,
+  "level": 90,
+  "elo": 476
+ },
+ {
+  "name": "Iceproof",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Haarpz",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 1825
+ },
+ {
+  "name": "Agency",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Eharris",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1308
+ },
+ {
+  "name": "Nb",
+  "class": 3,
+  "race": 8,
+  "level": 90,
+  "elo": 981
+ },
+ {
+  "name": "Jlm",
+  "class": 5,
+  "race": 26,
+  "level": 90,
+  "elo": 981
+ },
+ {
+  "name": "Jsswar",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 1213
+ },
+ {
+  "name": "Rhahum",
+  "class": 10,
+  "race": 2,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Reizzer",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Codegeas",
+  "class": 10,
+  "race": 2,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Gharovk",
+  "class": 7,
+  "race": 2,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Frittz",
+  "class": 10,
+  "race": 10,
+  "level": 90,
+  "elo": 478
+ },
+ {
+  "name": "Bigsmekk",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Nevarden",
+  "class": 11,
+  "race": 6,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Biiz",
+  "class": 4,
+  "race": 5,
+  "level": 90,
+  "elo": 475
+ },
+ {
+  "name": "Kusari",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 827
+ },
+ {
+  "name": "Locked",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 475
+ },
+ {
+  "name": "Smadrer",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 564
+ },
+ {
+  "name": "Lilzoom",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "elo": 929
+ },
+ {
+  "name": "Biggunz",
+  "class": 10,
+  "race": 10,
+  "level": 90,
+  "elo": 929
+ },
+ {
+  "name": "Huffman",
+  "class": 2,
+  "race": 6,
+  "level": 90,
+  "elo": 829
+ },
+ {
+  "name": "Boofdaddy",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 829
+ },
+ {
+  "name": "Slamxo",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 286
+ },
+ {
+  "name": "Rittenhouse",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Tachii",
+  "class": 6,
+  "race": 1,
+  "level": 90,
+  "elo": 1113
+ },
+ {
+  "name": "Chromehearts",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 814
+ },
+ {
+  "name": "Swagorz",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 478
+ },
+ {
+  "name": "Chaosqt",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Twonuts",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 570
+ },
+ {
+  "name": "Heyupi",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 286
+ },
+ {
+  "name": "Videogame",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Autosniper",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 1214
+ },
+ {
+  "name": "Attention",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 840
+ },
+ {
+  "name": "Depreshn",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 2006
+ },
+ {
+  "name": "Hureishu",
+  "class": 6,
+  "race": 2,
+  "level": 90,
+  "elo": 288
+ },
+ {
+  "name": "Sera",
+  "class": 7,
+  "race": 2,
+  "level": 90,
+  "elo": 477
+ },
+ {
+  "name": "Eneia",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 741
+ },
+ {
+  "name": "Smite",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 741
+ },
+ {
+  "name": "Cloudstrifee",
+  "class": 1,
+  "race": 10,
+  "level": 90,
+  "elo": 985
+ },
+ {
+  "name": "Drathlord",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "elo": 658
+ },
+ {
+  "name": "Proudhoof",
+  "class": 1,
+  "race": 6,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Voltex",
+  "class": 7,
+  "race": 6,
+  "level": 90,
+  "elo": 381
+ },
+ {
+  "name": "Airxclap",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 566
+ },
+ {
+  "name": "Absolutionn",
+  "class": 5,
+  "race": 10,
+  "level": 90,
+  "elo": 474
+ },
+ {
+  "name": "Nyxrogue",
+  "class": 4,
+  "race": 5,
+  "level": 90,
+  "elo": 895
+ },
+ {
+  "name": "Lioniss",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 1263
+ },
+ {
+  "name": "Seibah",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1056
+ },
+ {
+  "name": "Emerick",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 933
+ },
+ {
+  "name": "Mvpqt",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Neok",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Keter",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 2094
+ },
+ {
+  "name": "Doranis",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1228
+ },
+ {
+  "name": "Madbreath",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1303
+ },
+ {
+  "name": "Caelesta",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1090
+ },
+ {
+  "name": "Papega",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 380
+ },
+ {
+  "name": "Chonky",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Free",
+  "class": 4,
+  "race": 1,
+  "level": 90,
+  "elo": 2081
+ },
+ {
+  "name": "Putty",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Rls",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1021
+ },
+ {
+  "name": "Ludwig",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 475
+ },
+ {
+  "name": "Tonk",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Lazan",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1003
+ },
+ {
+  "name": "Thaga",
+  "class": 8,
+  "race": 8,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Vermicelli",
+  "class": 4,
+  "race": 2,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Xijinping",
+  "class": 5,
+  "race": 5,
+  "level": 90,
+  "elo": 654
+ },
+ {
+  "name": "Stabxd",
+  "class": 4,
+  "race": 10,
+  "level": 90,
+  "elo": 758
+ },
+ {
+  "name": "Eith",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 286
+ },
+ {
+  "name": "Exey",
+  "class": 5,
+  "race": 5,
+  "level": 90,
+  "elo": 475
+ },
+ {
+  "name": "Kusumi",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Exos",
+  "class": 8,
+  "race": 5,
+  "level": 90,
+  "elo": 848
+ },
+ {
+  "name": "Lewy",
+  "class": 11,
+  "race": 6,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Draxx",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 95
+ },
+ {
+  "name": "Snuddle",
+  "class": 7,
+  "race": 11,
+  "level": 90,
+  "elo": 566
+ },
+ {
+  "name": "Noloko",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1320
+ },
+ {
+  "name": "Jexxy",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 838
+ },
+ {
+  "name": "Pupperoni",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 1015
+ },
+ {
+  "name": "Kian",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "elo": 95
+ },
+ {
+  "name": "Jarbas",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Akremah",
+  "class": 2,
+  "race": 10,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Mmhunter",
+  "class": 3,
+  "race": 10,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Hoxnor",
+  "class": 11,
+  "race": 6,
+  "level": 90,
+  "elo": 1314
+ },
+ {
+  "name": "Il",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 381
+ },
+ {
+  "name": "Amish",
+  "class": 5,
+  "race": 10,
+  "level": 90,
+  "elo": 1141
+ },
+ {
+  "name": "Starvin",
+  "class": 1,
+  "race": 10,
+  "level": 90,
+  "elo": 1141
+ },
+ {
+  "name": "Svic",
+  "class": 8,
+  "race": 8,
+  "level": 90,
+  "elo": 989
+ },
+ {
+  "name": "Faji",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "elo": 911
+ },
+ {
+  "name": "Wicid",
+  "class": 11,
+  "race": 6,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Shaxy",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 2068
+ },
+ {
+  "name": "Envyme",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1759
+ },
+ {
+  "name": "Mistbuster",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 1752
+ },
+ {
+  "name": "Demonforce",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Velkoo",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1435
+ },
+ {
+  "name": "Knk",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 1963
+ },
+ {
+  "name": "Janegrey",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1328
+ },
+ {
+  "name": "Insanus",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 1571
+ },
+ {
+  "name": "Struxyz",
+  "class": 6,
+  "race": 1,
+  "level": 90,
+  "elo": 1241
+ },
+ {
+  "name": "Cobaty",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 912
+ },
+ {
+  "name": "Noncho",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 925
+ },
+ {
+  "name": "Satella",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 912
+ },
+ {
+  "name": "Lele",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1276
+ },
+ {
+  "name": "Shadowballs",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 191
+ },
+ {
+  "name": "Nerara",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 757
+ },
+ {
+  "name": "Struxy",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 1287
+ },
+ {
+  "name": "Smashstancex",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1871
+ },
+ {
+  "name": "Basonis",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1885
+ },
+ {
+  "name": "Jmi",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 830
+ },
+ {
+  "name": "Noto",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 1090
+ },
+ {
+  "name": "Oak",
+  "class": 6,
+  "race": 1,
+  "level": 90,
+  "elo": 287
+ },
+ {
+  "name": "Ivkan",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "elo": 655
+ },
+ {
+  "name": "Balloneta",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 838
+ },
+ {
+  "name": "Danicrack",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 288
+ },
+ {
+  "name": "Nz",
+  "class": 4,
+  "race": 1,
+  "level": 90,
+  "elo": 288
+ },
+ {
+  "name": "Patric",
+  "class": 10,
+  "race": 6,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Arend",
+  "class": 6,
+  "race": 2,
+  "level": 90,
+  "elo": 191
+ },
+ {
+  "name": "Howly",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 191
+ },
+ {
+  "name": "Shoed",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "elo": 1684
+ },
+ {
+  "name": "Ryncs",
+  "class": 7,
+  "race": 8,
+  "level": 90,
+  "elo": 478
+ },
+ {
+  "name": "Natrenn",
+  "class": 2,
+  "race": 6,
+  "level": 90,
+  "elo": 1513
+ },
+ {
+  "name": "Classicdk",
+  "class": 6,
+  "race": 2,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Hugs",
+  "class": 1,
+  "race": 9,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Nemezis",
+  "class": 1,
+  "race": 6,
+  "level": 90,
+  "elo": 748
+ },
+ {
+  "name": "Annaa",
+  "class": 11,
+  "race": 6,
+  "level": 90,
+  "elo": 1232
+ },
+ {
+  "name": "Kyosuky",
+  "class": 9,
+  "race": 8,
+  "level": 90,
+  "elo": 926
+ },
+ {
+  "name": "Hollowchuck",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 752
+ },
+ {
+  "name": "Balthaxs",
+  "class": 10,
+  "race": 2,
+  "level": 90,
+  "elo": 1293
+ },
+ {
+  "name": "Damplague",
+  "class": 9,
+  "race": 5,
+  "level": 90,
+  "elo": 836
+ },
+ {
+  "name": "Poteto",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 1314
+ },
+ {
+  "name": "Freazy",
+  "class": 6,
+  "race": 10,
+  "level": 90,
+  "elo": 477
+ },
+ {
+  "name": "Trosto",
+  "class": 3,
+  "race": 8,
+  "level": 90,
+  "elo": 1232
+ },
+ {
+  "name": "Belax",
+  "class": 9,
+  "race": 8,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Lokiakiraj",
+  "class": 10,
+  "race": 8,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Yodaz",
+  "class": 7,
+  "race": 9,
+  "level": 90,
+  "elo": 568
+ },
+ {
+  "name": "Lystriss",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 1731
+ },
+ {
+  "name": "Elbbar",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 1731
+ },
+ {
+  "name": "Qyotasa",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Vixer",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "elo": 2065
+ },
+ {
+  "name": "Arcieliza",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 756
+ },
+ {
+  "name": "Lurdan",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 838
+ },
+ {
+  "name": "Booq",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 924
+ },
+ {
+  "name": "Nyle",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 1946
+ },
+ {
+  "name": "Fantasy",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1899
+ },
+ {
+  "name": "Bebhell",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Rabbit",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 747
+ },
+ {
+  "name": "Xvi",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 857
+ },
+ {
+  "name": "Nike",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 756
+ },
+ {
+  "name": "Fartpsycho",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Herrylol",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 2024
+ },
+ {
+  "name": "Fuzionz",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 383
+ },
+ {
+  "name": "Duraps",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1148
+ },
+ {
+  "name": "Smeshurboy",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 809
+ },
+ {
+  "name": "Katrina",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 473
+ },
+ {
+  "name": "Whoozah",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 999
+ },
+ {
+  "name": "Buttass",
+  "class": 8,
+  "race": 25,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Assbutt",
+  "class": 5,
+  "race": 25,
+  "level": 90,
+  "elo": 1534
+ },
+ {
+  "name": "Wuyi",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1209
+ },
+ {
+  "name": "Horu",
+  "class": 4,
+  "race": 1,
+  "level": 90,
+  "elo": 95
+ },
+ {
+  "name": "Dayz",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Wzdry",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 2043
+ },
+ {
+  "name": "Lostrivers",
+  "class": 4,
+  "race": 1,
+  "level": 90,
+  "elo": 1843
+ },
+ {
+  "name": "Slamueljcksn",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 1066
+ },
+ {
+  "name": "Takasha",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 1308
+ },
+ {
+  "name": "One",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 911
+ },
+ {
+  "name": "Bijssitah",
+  "class": 7,
+  "race": 8,
+  "level": 90,
+  "elo": 566
+ },
+ {
+  "name": "Yasi",
+  "class": 2,
+  "race": 6,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Aemra",
+  "class": 6,
+  "race": 10,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Waz",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "elo": 1666
+ },
+ {
+  "name": "Zeroweeb",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "elo": 931
+ },
+ {
+  "name": "Rewriight",
+  "class": 6,
+  "race": 2,
+  "level": 90,
+  "elo": 931
+ },
+ {
+  "name": "Normanqt",
+  "class": 7,
+  "race": 2,
+  "level": 90,
+  "elo": 383
+ },
+ {
+  "name": "Eth",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 830
+ },
+ {
+  "name": "Murney",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 917
+ },
+ {
+  "name": "Dlcky",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 917
+ },
+ {
+  "name": "Res",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 929
+ },
+ {
+  "name": "Sovereign",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1484
+ },
+ {
+  "name": "Arcsucksp",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Thegrizzler",
+  "class": 8,
+  "race": 5,
+  "level": 90,
+  "elo": 473
+ },
+ {
+  "name": "Cobrak",
+  "class": 9,
+  "race": 5,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Armpitjuicer",
+  "class": 8,
+  "race": 5,
+  "level": 90,
+  "elo": 1704
+ },
+ {
+  "name": "Sturm",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Archemid",
+  "class": 9,
+  "race": 8,
+  "level": 90,
+  "elo": 982
+ },
+ {
+  "name": "Protext",
+  "class": 7,
+  "race": 8,
+  "level": 90,
+  "elo": 982
+ },
+ {
+  "name": "Rolton",
+  "class": 8,
+  "race": 5,
+  "level": 90,
+  "elo": 191
+ },
+ {
+  "name": "Tholderg",
+  "class": 10,
+  "race": 10,
+  "level": 90,
+  "elo": 191
+ },
+ {
+  "name": "Xlexen",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "elo": 383
+ },
+ {
+  "name": "Galen",
+  "class": 2,
+  "race": 10,
+  "level": 90,
+  "elo": 1556
+ },
+ {
+  "name": "Urken",
+  "class": 10,
+  "race": 2,
+  "level": 90,
+  "elo": 1556
+ },
+ {
+  "name": "Koseroger",
+  "class": 4,
+  "race": 5,
+  "level": 90,
+  "elo": 381
+ },
+ {
+  "name": "Teenmom",
+  "class": 5,
+  "race": 10,
+  "level": 90,
+  "elo": 653
+ },
+ {
+  "name": "Kose",
+  "class": 8,
+  "race": 5,
+  "level": 90,
+  "elo": 1932
+ },
+ {
+  "name": "Jadamspriest",
+  "class": 5,
+  "race": 5,
+  "level": 90,
+  "elo": 1932
+ },
+ {
+  "name": "Spartlolz",
+  "class": 2,
+  "race": 10,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Jaegerjaquez",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 1000
+ },
+ {
+  "name": "Mongoloid",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "elo": 741
+ },
+ {
+  "name": "Lyricah",
+  "class": 1,
+  "race": 4,
+  "level": 90,
+  "elo": 841
+ },
+ {
+  "name": "Chkr",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 1365
+ },
+ {
+  "name": "Popchi",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 1747
+ },
+ {
+  "name": "Stepxo",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 1365
+ },
+ {
+  "name": "Dontfkwithme",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Zeyonce",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 741
+ },
+ {
+  "name": "Gotmog",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 657
+ },
+ {
+  "name": "Ssiso",
+  "class": 9,
+  "race": 8,
+  "level": 90,
+  "elo": 981
+ },
+ {
+  "name": "Gzgza",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "elo": 1049
+ },
+ {
+  "name": "Newfreshwhen",
+  "class": 5,
+  "race": 5,
+  "level": 90,
+  "elo": 478
+ },
+ {
+  "name": "Baileyjay",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 1052
+ },
+ {
+  "name": "Xander",
+  "class": 9,
+  "race": 5,
+  "level": 90,
+  "elo": 986
+ },
+ {
+  "name": "Aje",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "elo": 478
+ },
+ {
+  "name": "Knut",
+  "class": 6,
+  "race": 2,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Slimjim",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "elo": 656
+ },
+ {
+  "name": "Arid",
+  "class": 10,
+  "race": 2,
+  "level": 90,
+  "elo": 986
+ },
+ {
+  "name": "Nan",
+  "class": 6,
+  "race": 10,
+  "level": 90,
+  "elo": 657
+ },
+ {
+  "name": "Kattdudu",
+  "class": 11,
+  "race": 6,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Alibaba",
+  "class": 10,
+  "race": 6,
+  "level": 90,
+  "elo": 1053
+ },
+ {
+  "name": "Damageissues",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "elo": 288
+ },
+ {
+  "name": "Sergio",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "elo": 660
+ },
+ {
+  "name": "Megicmike",
+  "class": 9,
+  "race": 8,
+  "level": 90,
+  "elo": 660
+ },
+ {
+  "name": "Berilie",
+  "class": 9,
+  "race": 8,
+  "level": 90,
+  "elo": 1253
+ },
+ {
+  "name": "Vanheider",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "elo": 1016
+ },
+ {
+  "name": "Pandora",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "elo": 1636
+ },
+ {
+  "name": "Topen",
+  "class": 10,
+  "race": 2,
+  "level": 90,
+  "elo": 1636
+ },
+ {
+  "name": "Wraith",
+  "class": 4,
+  "race": 2,
+  "level": 90,
+  "elo": 1016
+ },
+ {
+  "name": "Easytime",
+  "class": 10,
+  "race": 26,
+  "level": 90,
+  "elo": 569
+ },
+ {
+  "name": "Skatje",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 930
+ },
+ {
+  "name": "Proselyte",
+  "class": 2,
+  "race": 6,
+  "level": 90,
+  "elo": 920
+ },
+ {
+  "name": "Opheals",
+  "class": 10,
+  "race": 6,
+  "level": 90,
+  "elo": 930
+ },
+ {
+  "name": "Olosard",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 656
+ },
+ {
+  "name": "Redline",
+  "class": 9,
+  "race": 2,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Veckley",
+  "class": 9,
+  "race": 5,
+  "level": 90,
+  "elo": 1014
+ },
+ {
+  "name": "Zalamkiorda",
+  "class": 10,
+  "race": 26,
+  "level": 90,
+  "elo": 919
+ },
+ {
+  "name": "Plpz",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 919
+ },
+ {
+  "name": "Ksieciuniu",
+  "class": 4,
+  "race": 2,
+  "level": 90,
+  "elo": 748
+ },
+ {
+  "name": "Opakna",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 1507
+ },
+ {
+  "name": "Badrog",
+  "class": 4,
+  "race": 5,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Kidx",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 572
+ },
+ {
+  "name": "Wienio",
+  "class": 3,
+  "race": 10,
+  "level": 90,
+  "elo": 1198
+ },
+ {
+  "name": "Kotlet",
+  "class": 2,
+  "race": 10,
+  "level": 90,
+  "elo": 95
+ },
+ {
+  "name": "Dundersumpen",
+  "class": 8,
+  "race": 7,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Rosing",
+  "class": 9,
+  "race": 1,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Kowloon",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 838
+ },
+ {
+  "name": "Vanbasten",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "elo": 658
+ },
+ {
+  "name": "Goldendragon",
+  "class": 10,
+  "race": 2,
+  "level": 90,
+  "elo": 925
+ },
+ {
+  "name": "Skatteverket",
+  "class": 5,
+  "race": 5,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Stig",
+  "class": 6,
+  "race": 2,
+  "level": 90,
+  "elo": 192
+ },
+ {
+  "name": "Yo",
+  "class": 6,
+  "race": 1,
+  "level": 90,
+  "elo": 1676
+ },
+ {
+  "name": "Zues",
+  "class": 4,
+  "race": 1,
+  "level": 90,
+  "elo": 382
+ },
+ {
+  "name": "Ohpala",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "elo": 938
+ },
+ {
+  "name": "Dojacatfan",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "elo": 938
+ },
+ {
+  "name": "Swd",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "elo": 1026
+ },
+ {
+  "name": "Hendrickson",
+  "class": 6,
+  "race": 22,
+  "level": 90,
+  "elo": 96
+ },
+ {
+  "name": "Prodilly",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "elo": 96
+ }
+]
