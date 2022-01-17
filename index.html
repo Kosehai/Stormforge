@@ -124,6 +124,12 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
   background:#262626;
   color:#747474;
 }
+#faction0 {
+  color:rgb(97, 97, 248);
+}
+#faction1 {
+  color:rgb(224, 75, 75);
+}
 /* /end Leaderboard Results */
     </style>
 <body>
@@ -134,7 +140,7 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
         <p>This leaderboard is based off data scraped from player achivement page. This means that this leaderboard is based off the highest rating a player has achieved in the current season, so the leaderboard is not accurate!
             <br>
             Will make a proper one when the Armory API is sorted.
-            <br><br>Last Update: 2/17/22 11:00
+            <br><br>Last Update: 1/17/22 16:00
         </p>    
     </div>
     <div id="leaderboard">
@@ -168,6 +174,7 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
                 wowclass.setAttribute("src", "img/" + player["class"] + ".png")
                 cellB.appendChild(wowclass);
                 cellC.innerHTML = player["name"];
+                cellC.setAttribute("id", "faction" + player["faction"]);
                 cellD.innerHTML = player["elo"];
             }
 

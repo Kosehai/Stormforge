@@ -21,11 +21,45 @@ rjson = json.loads(r.text)
 startlog = 6000
 endlog = int(rjson["response"]["logs"][0]["log_id"])
 
+playerList = []
 guildList = []
-with open("guilds.json", "r") as f:
-    guildList = json.load(f)
 finalList = []
 
+for id in range(startlog, endlog):
+    request = {
+    "url": "raid-log",
+    "params": {
+        "r": "Mistblade",
+        "id": id
+        }
+    }
+    try:
+        membersjson = json.loads(api.send(request).text)
+        members = membersjson["response"]["members"]
+        for player in members:
+            playername = player["name"]
+            if playername not in playerList:
+                playerList.append(playername)
+        print("log: " + str(id) + "/" + str(endlog))
+    except:
+        print("")
+for playername in playerList:
+    request = {
+        "url": "character-sheet",
+        "params": {
+            "r": "Mistblade",
+         "n": playername
+        }
+    }
+    guildjson = json.loads(api.send(request).text)
+    try:
+        guild = guildjson["response"]["guildName"]
+        if(guild not in guildList):
+            guildList.append(guild)
+            print("Found new guild: " + guild)
+    except:
+        print("")
+"""
 for guildname in guildList:
     request = {
         "url": "guild-info",
@@ -67,3 +101,9 @@ for guildname in guildList:
 
 with open("players.json", "w") as f:
     f.write(json.dumps(finalList, indent=1))
+"""
+with open("guilds.json", "w") as fg:
+    fg.write(json.dumps(guildList, indent=1))
+
+with open("lastend.txt", "w") as fw:
+    fw.write(str(endlog))
