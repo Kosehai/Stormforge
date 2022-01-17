@@ -1,6 +1,5 @@
 import json
 import api
-import sys
 import getpoints
 
 #char = sys.argv[1]
@@ -19,7 +18,7 @@ request = {
 
 r = api.send(request)
 rjson = json.loads(r.text)
-startlog = 7000
+startlog = 14396
 endlog = int(rjson["response"]["logs"][0]["log_id"])
 
 playerList = []
@@ -80,6 +79,7 @@ for guildname in guildList:
                 if elo > 0:
                     pclass = member["class"]
                     race = member["race"]
+                    faction = member["faction"]
 
 
                     pobj = {
@@ -87,6 +87,7 @@ for guildname in guildList:
                         "class": pclass,
                         "race": race,
                         "level": level,
+                        "faction": faction,
                         "elo": elo
                     }
                     print(pobj)
@@ -98,6 +99,9 @@ for guildname in guildList:
 
 with open("players.json", "w") as f:
     f.write(json.dumps(finalList, indent=1))
+
+with open("guilds.json", "w") as fg:
+    fg.write(json.dumps(guildList, indent=1))
 
 with open("lastend.txt", "w") as fw:
     fw.write(str(endlog))
