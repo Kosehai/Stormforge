@@ -4,7 +4,7 @@ import json
 char = sys.argv[1]
 print(char)
 request = {
-    "url": "character-sheet",
+    "url": "character-talents",
     "params": {
         "r": "Mistblade",
 	"n": char
