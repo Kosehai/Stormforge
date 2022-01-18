@@ -8,6 +8,14 @@
   "elo": 1702
  },
  {
+  "name": "Monotox",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 930
+ },
+ {
   "name": "Nekkuneke",
   "class": 10,
   "race": 1,
@@ -88,6 +96,14 @@
   "elo": 287
  },
  {
+  "name": "Frans",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 192
+ },
+ {
   "name": "Collab",
   "class": 1,
   "race": 1,
@@ -102,6 +118,14 @@
   "level": 90,
   "faction": 0,
   "elo": 1931
+ },
+ {
+  "name": "Sqxgodx",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1720
  },
  {
   "name": "Vaxen",
@@ -136,20 +160,20 @@
   "elo": 191
  },
  {
-  "name": "Chakra",
-  "class": 5,
-  "race": 4,
-  "level": 90,
-  "faction": 0,
-  "elo": 285
- },
- {
   "name": "Sofiee",
   "class": 8,
   "race": 1,
   "level": 90,
   "faction": 0,
   "elo": 382
+ },
+ {
+  "name": "Chakra",
+  "class": 5,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 285
  },
  {
   "name": "Coldeye",
@@ -200,14 +224,6 @@
   "elo": 1446
  },
  {
-  "name": "Uwugivemesex",
-  "class": 1,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1931
- },
- {
   "name": "Eharris",
   "class": 8,
   "race": 1,
@@ -221,7 +237,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1804
+  "elo": 1953
  },
  {
   "name": "Wickedfury",
@@ -232,12 +248,12 @@
   "elo": 1735
  },
  {
-  "name": "Chilisauce",
-  "class": 5,
+  "name": "Ilqpll",
+  "class": 1,
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 382
+  "elo": 2184
  },
  {
   "name": "Nhyftwo",
@@ -245,7 +261,7 @@
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 2049
+  "elo": 2120
  },
  {
   "name": "Kuma",
@@ -277,7 +293,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 288
+  "elo": 659
  },
  {
   "name": "Traktorcat",
@@ -296,14 +312,6 @@
   "elo": 1394
  },
  {
-  "name": "Ilqpll",
-  "class": 1,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 2184
- },
- {
   "name": "Barzan",
   "class": 10,
   "race": 1,
@@ -320,20 +328,20 @@
   "elo": 1110
  },
  {
+  "name": "Chilisauce",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 382
+ },
+ {
   "name": "Zilla",
   "class": 1,
   "race": 1,
   "level": 90,
   "faction": 0,
   "elo": 661
- },
- {
-  "name": "Titangel",
-  "class": 1,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 906
  },
  {
   "name": "Tyrant",
@@ -389,7 +397,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1358
+  "elo": 1461
  },
  {
   "name": "Lambda",
@@ -405,15 +413,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1806
- },
- {
-  "name": "Cloudwalker",
-  "class": 8,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1253
+  "elo": 2089
  },
  {
   "name": "Sheephappens",
@@ -422,6 +422,14 @@
   "level": 90,
   "faction": 0,
   "elo": 753
+ },
+ {
+  "name": "Drinkwater",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 930
  },
  {
   "name": "Fist",
@@ -437,7 +445,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 565
+  "elo": 928
  },
  {
   "name": "Unstable",
@@ -493,7 +501,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 96
+  "elo": 1519
  },
  {
   "name": "Chad",
@@ -525,7 +533,7 @@
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 982
+  "elo": 1380
  },
  {
   "name": "Celeandra",
@@ -565,7 +573,15 @@
   "race": 3,
   "level": 90,
   "faction": 0,
-  "elo": 1209
+  "elo": 1768
+ },
+ {
+  "name": "Brucewaynerd",
+  "class": 6,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 192
  },
  {
   "name": "Arwyxz",
@@ -584,20 +600,20 @@
   "elo": 476
  },
  {
+  "name": "Uwugivemesex",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1931
+ },
+ {
   "name": "Iceproof",
   "class": 1,
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 96
- },
- {
-  "name": "Hrqxz",
-  "class": 8,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1134
+  "elo": 1519
  },
  {
   "name": "Haarpz",
@@ -608,12 +624,68 @@
   "elo": 1825
  },
  {
+  "name": "Djfearz",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1716
+ },
+ {
+  "name": "Axiior",
+  "class": 7,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 286
+ },
+ {
+  "name": "Zzerffs",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 286
+ },
+ {
+  "name": "Motivex",
+  "class": 7,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 475
+ },
+ {
+  "name": "Amaelle",
+  "class": 1,
+  "race": 10,
+  "level": 90,
+  "faction": 1,
+  "elo": 475
+ },
+ {
   "name": "Imawizardxd",
   "class": 3,
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 753
+  "elo": 928
+ },
+ {
+  "name": "Ikthan",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 808
+ },
+ {
+  "name": "Imawizardxp",
+  "class": 2,
+  "race": 10,
+  "level": 90,
+  "faction": 1,
+  "elo": 928
  },
  {
   "name": "Shidaw",
@@ -629,7 +701,7 @@
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 753
+  "elo": 928
  },
  {
   "name": "Feniek",
@@ -637,15 +709,7 @@
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 566
- },
- {
-  "name": "Ikthan",
-  "class": 11,
-  "race": 8,
-  "level": 90,
-  "faction": 1,
-  "elo": 808
+  "elo": 983
  },
  {
   "name": "Dergo",
@@ -653,7 +717,7 @@
   "race": 8,
   "level": 90,
   "faction": 1,
-  "elo": 476
+  "elo": 749
  },
  {
   "name": "Aura",
@@ -662,14 +726,6 @@
   "level": 90,
   "faction": 1,
   "elo": 1003
- },
- {
-  "name": "Pvp",
-  "class": 8,
-  "race": 5,
-  "level": 90,
-  "faction": 1,
-  "elo": 192
  },
  {
   "name": "Wildheit",
@@ -688,20 +744,12 @@
   "elo": 660
  },
  {
-  "name": "Imawizardxp",
-  "class": 2,
-  "race": 10,
-  "level": 90,
-  "faction": 1,
-  "elo": 928
- },
- {
   "name": "Aurucha",
   "class": 8,
   "race": 8,
   "level": 90,
   "faction": 1,
-  "elo": 472
+  "elo": 905
  },
  {
   "name": "Silk",
@@ -709,7 +757,7 @@
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 192
+  "elo": 383
  },
  {
   "name": "Imawizardxs",
@@ -805,7 +853,7 @@
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 381
+  "elo": 912
  },
  {
   "name": "Jamba",
@@ -864,6 +912,14 @@
   "elo": 750
  },
  {
+  "name": "Ragul",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 980
+ },
+ {
   "name": "Urken",
   "class": 10,
   "race": 2,
@@ -896,12 +952,36 @@
   "elo": 741
  },
  {
+  "name": "Lokm",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 998
+ },
+ {
+  "name": "Wyven",
+  "class": 2,
+  "race": 6,
+  "level": 90,
+  "faction": 1,
+  "elo": 191
+ },
+ {
   "name": "Sodah",
   "class": 7,
   "race": 8,
   "level": 90,
   "faction": 1,
   "elo": 96
+ },
+ {
+  "name": "Gudsvilja",
+  "class": 7,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 980
  },
  {
   "name": "Smite",
@@ -925,7 +1005,7 @@
   "race": 8,
   "level": 90,
   "faction": 1,
-  "elo": 96
+  "elo": 919
  },
  {
   "name": "Waz",
@@ -990,14 +1070,6 @@
   "level": 90,
   "faction": 1,
   "elo": 1253
- },
- {
-  "name": "Seidkona",
-  "class": 7,
-  "race": 2,
-  "level": 90,
-  "faction": 1,
-  "elo": 96
  },
  {
   "name": "Himiko",
@@ -1157,7 +1229,7 @@
   "race": 10,
   "level": 90,
   "faction": 1,
-  "elo": 839
+  "elo": 1405
  },
  {
   "name": "Arend",
@@ -1173,7 +1245,7 @@
   "race": 5,
   "level": 90,
   "faction": 1,
-  "elo": 752
+  "elo": 1382
  },
  {
   "name": "Howly",
@@ -1197,7 +1269,7 @@
   "race": 10,
   "level": 90,
   "faction": 1,
-  "elo": 1303
+  "elo": 1473
  },
  {
   "name": "Eith",
@@ -1213,7 +1285,7 @@
   "race": 5,
   "level": 90,
   "faction": 1,
-  "elo": 475
+  "elo": 1093
  },
  {
   "name": "Yuck",
@@ -1245,7 +1317,7 @@
   "race": 5,
   "level": 90,
   "faction": 1,
-  "elo": 1323
+  "elo": 1484
  },
  {
   "name": "Shamkriss",
@@ -1261,7 +1333,7 @@
   "race": 6,
   "level": 90,
   "faction": 1,
-  "elo": 96
+  "elo": 381
  },
  {
   "name": "Beyond",
@@ -1272,12 +1344,36 @@
   "elo": 752
  },
  {
+  "name": "Roguenine",
+  "class": 4,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 380
+ },
+ {
+  "name": "Hlorel",
+  "class": 2,
+  "race": 10,
+  "level": 90,
+  "faction": 1,
+  "elo": 96
+ },
+ {
   "name": "Proselyte",
   "class": 2,
   "race": 6,
   "level": 90,
   "faction": 1,
   "elo": 982
+ },
+ {
+  "name": "Wallahisheep",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 1002
  },
  {
   "name": "Opheals",
@@ -1304,6 +1400,14 @@
   "elo": 743
  },
  {
+  "name": "Xodias",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 566
+ },
+ {
   "name": "Skatje",
   "class": 1,
   "race": 2,
@@ -1318,14 +1422,6 @@
   "level": 90,
   "faction": 1,
   "elo": 382
- },
- {
-  "name": "Wallahisheep",
-  "class": 11,
-  "race": 8,
-  "level": 90,
-  "faction": 1,
-  "elo": 287
  },
  {
   "name": "Arcsucksp",
@@ -1373,7 +1469,7 @@
   "race": 5,
   "level": 90,
   "faction": 1,
-  "elo": 986
+  "elo": 1304
  },
  {
   "name": "Aje",
@@ -1413,15 +1509,7 @@
   "race": 5,
   "level": 90,
   "faction": 1,
-  "elo": 572
- },
- {
-  "name": "Xodias",
-  "class": 11,
-  "race": 8,
-  "level": 90,
-  "faction": 1,
-  "elo": 192
+  "elo": 908
  },
  {
   "name": "Slimjim",
@@ -1437,7 +1525,7 @@
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 986
+  "elo": 1304
  },
  {
   "name": "Colinp",
@@ -1485,7 +1573,15 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1593
+  "elo": 1605
+ },
+ {
+  "name": "Arkiv",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 96
  },
  {
   "name": "Seibah",
@@ -1509,55 +1605,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 753
- },
- {
-  "name": "Tonk",
-  "class": 11,
-  "race": 4,
-  "level": 90,
-  "faction": 0,
-  "elo": 192
- },
- {
-  "name": "Mvpqt",
-  "class": 5,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 96
- },
- {
-  "name": "Doreen",
-  "class": 10,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 838
- },
- {
-  "name": "Kravn",
-  "class": 1,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 753
- },
- {
-  "name": "Lazan",
-  "class": 3,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1003
- },
- {
-  "name": "Keter",
-  "class": 1,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 2094
+  "elo": 914
  },
  {
   "name": "Sturm",
@@ -1568,12 +1616,12 @@
   "elo": 96
  },
  {
-  "name": "Doranis",
-  "class": 3,
+  "name": "Papega",
+  "class": 1,
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1228
+  "elo": 380
  },
  {
   "name": "Torean",
@@ -1584,60 +1632,44 @@
   "elo": 920
  },
  {
+  "name": "Lazan",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1003
+ },
+ {
+  "name": "Doreen",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 838
+ },
+ {
+  "name": "Keter",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 2094
+ },
+ {
+  "name": "Repcal",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 570
+ },
+ {
   "name": "Madbreath",
   "class": 1,
   "race": 1,
   "level": 90,
   "faction": 0,
   "elo": 2006
- },
- {
-  "name": "Papega",
-  "class": 1,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 380
- },
- {
-  "name": "Sylanha",
-  "class": 11,
-  "race": 4,
-  "level": 90,
-  "faction": 0,
-  "elo": 1003
- },
- {
-  "name": "Remedies",
-  "class": 10,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1138
- },
- {
-  "name": "Caelesta",
-  "class": 10,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1090
- },
- {
-  "name": "Neok",
-  "class": 8,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 96
- },
- {
-  "name": "Chonky",
-  "class": 3,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 192
  },
  {
   "name": "Free",
@@ -1648,12 +1680,36 @@
   "elo": 2081
  },
  {
-  "name": "Ruthless",
-  "class": 1,
+  "name": "Neok",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 96
+ },
+ {
+  "name": "Caelesta",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1090
+ },
+ {
+  "name": "Remedies",
+  "class": 10,
   "race": 1,
   "level": 90,
   "faction": 0,
   "elo": 1138
+ },
+ {
+  "name": "Mvpqt",
+  "class": 5,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 192
  },
  {
   "name": "Putty",
@@ -1661,7 +1717,7 @@
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 287
+  "elo": 380
  },
  {
   "name": "Rls",
@@ -1669,7 +1725,63 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1021
+  "elo": 1737
+ },
+ {
+  "name": "Ruthless",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1301
+ },
+ {
+  "name": "Doranis",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1368
+ },
+ {
+  "name": "Kravn",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 914
+ },
+ {
+  "name": "Sylanha",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 1003
+ },
+ {
+  "name": "Flameyslams",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 95
+ },
+ {
+  "name": "Sunshot",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 192
+ },
+ {
+  "name": "Chonky",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 192
  },
  {
   "name": "Ludwig",
@@ -1678,6 +1790,14 @@
   "level": 90,
   "faction": 0,
   "elo": 475
+ },
+ {
+  "name": "Tonk",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 192
  },
  {
   "name": "Smadrer",
@@ -1701,7 +1821,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 96
+  "elo": 381
  },
  {
   "name": "Sovereign",
@@ -1712,17 +1832,65 @@
   "elo": 1484
  },
  {
-  "name": "Res",
+  "name": "Shangchi",
+  "class": 10,
+  "race": 25,
+  "level": 90,
+  "faction": 0,
+  "elo": 287
+ },
+ {
+  "name": "Chkr",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1365
+ },
+ {
+  "name": "Vixer",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "faction": 0,
+  "elo": 2177
+ },
+ {
+  "name": "Stepxo",
   "class": 11,
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 929
+  "elo": 1365
+ },
+ {
+  "name": "Popchi",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1823
+ },
+ {
+  "name": "Lyricah",
+  "class": 1,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 841
  },
  {
   "name": "Zeyonce",
   "class": 11,
   "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 741
+ },
+ {
+  "name": "Mongoloid",
+  "class": 8,
+  "race": 1,
   "level": 90,
   "faction": 0,
   "elo": 741
@@ -1734,54 +1902,6 @@
   "level": 90,
   "faction": 0,
   "elo": 96
- },
- {
-  "name": "Stepxo",
-  "class": 11,
-  "race": 4,
-  "level": 90,
-  "faction": 0,
-  "elo": 1365
- },
- {
-  "name": "Lyricah",
-  "class": 1,
-  "race": 4,
-  "level": 90,
-  "faction": 0,
-  "elo": 841
- },
- {
-  "name": "Chkr",
-  "class": 3,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1365
- },
- {
-  "name": "Popchi",
-  "class": 10,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1747
- },
- {
-  "name": "Vixer",
-  "class": 7,
-  "race": 3,
-  "level": 90,
-  "faction": 0,
-  "elo": 2173
- },
- {
-  "name": "Mongoloid",
-  "class": 8,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 741
  },
  {
   "name": "Yani",
@@ -1800,12 +1920,12 @@
   "elo": 809
  },
  {
-  "name": "Carter",
-  "class": 1,
+  "name": "Whoozah",
+  "class": 2,
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 815
+  "elo": 999
  },
  {
   "name": "Stormix",
@@ -1832,6 +1952,14 @@
   "elo": 1148
  },
  {
+  "name": "Katrina",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 473
+ },
+ {
   "name": "Fuzionz",
   "class": 8,
   "race": 1,
@@ -1848,20 +1976,12 @@
   "elo": 905
  },
  {
-  "name": "Whoozah",
-  "class": 2,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 999
- },
- {
   "name": "Herrylol",
   "class": 2,
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 2024
+  "elo": 2038
  },
  {
   "name": "Wzdry",
@@ -1880,14 +2000,6 @@
   "elo": 1206
  },
  {
-  "name": "Katrina",
-  "class": 11,
-  "race": 4,
-  "level": 90,
-  "faction": 0,
-  "elo": 473
- },
- {
   "name": "Vyktor",
   "class": 9,
   "race": 1,
@@ -1902,6 +2014,14 @@
   "level": 90,
   "faction": 0,
   "elo": 1167
+ },
+ {
+  "name": "Carter",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 815
  },
  {
   "name": "Wuyi",
@@ -1926,6 +2046,22 @@
   "level": 90,
   "faction": 1,
   "elo": 381
+ },
+ {
+  "name": "Jadamsdruid",
+  "class": 11,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 1135
+ },
+ {
+  "name": "Moehre",
+  "class": 10,
+  "race": 10,
+  "level": 90,
+  "faction": 1,
+  "elo": 1241
  },
  {
   "name": "Teenmom",
@@ -1960,6 +2096,14 @@
   "elo": 96
  },
  {
+  "name": "Damage",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 1281
+ },
+ {
   "name": "Nz",
   "class": 4,
   "race": 1,
@@ -1984,12 +2128,20 @@
   "elo": 288
  },
  {
+  "name": "Xseqt",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 473
+ },
+ {
   "name": "Voltex",
   "class": 7,
   "race": 6,
   "level": 90,
   "faction": 1,
-  "elo": 381
+  "elo": 915
  },
  {
   "name": "Absolutionn",
@@ -2013,7 +2165,7 @@
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 565
+  "elo": 1125
  },
  {
   "name": "Jaegerjaquez",
@@ -2048,20 +2200,20 @@
   "elo": 96
  },
  {
-  "name": "Bigsmekk",
-  "class": 1,
-  "race": 2,
-  "level": 90,
-  "faction": 1,
-  "elo": 287
- },
- {
   "name": "Nevarden",
   "class": 11,
   "race": 6,
   "level": 90,
   "faction": 1,
   "elo": 96
+ },
+ {
+  "name": "Bigsmekk",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 287
  },
  {
   "name": "Biiz",
@@ -2120,12 +2272,12 @@
   "elo": 96
  },
  {
-  "name": "Natrenn",
-  "class": 2,
-  "race": 6,
+  "name": "Ryncs",
+  "class": 7,
+  "race": 8,
   "level": 90,
   "faction": 1,
-  "elo": 1513
+  "elo": 478
  },
  {
   "name": "Shoed",
@@ -2136,12 +2288,12 @@
   "elo": 1684
  },
  {
-  "name": "Ryncs",
-  "class": 7,
-  "race": 8,
+  "name": "Natrenn",
+  "class": 2,
+  "race": 6,
   "level": 90,
   "faction": 1,
-  "elo": 478
+  "elo": 1513
  },
  {
   "name": "Huffman",
@@ -2160,12 +2312,12 @@
   "elo": 829
  },
  {
-  "name": "Ruferniak",
-  "class": 11,
-  "race": 4,
+  "name": "Thryx",
+  "class": 1,
+  "race": 2,
   "level": 90,
-  "faction": 0,
-  "elo": 191
+  "faction": 1,
+  "elo": 96
  },
  {
   "name": "Obackbarama",
@@ -2184,12 +2336,20 @@
   "elo": 742
  },
  {
+  "name": "Ruferniak",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 191
+ },
+ {
   "name": "Laacky",
   "class": 10,
   "race": 26,
   "level": 90,
   "faction": 1,
-  "elo": 287
+  "elo": 1002
  },
  {
   "name": "Frostmage",
@@ -2214,6 +2374,14 @@
   "level": 90,
   "faction": 0,
   "elo": 928
+ },
+ {
+  "name": "Attention",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 840
  },
  {
   "name": "Hangeshi",
@@ -2248,12 +2416,20 @@
   "elo": 924
  },
  {
+  "name": "Souleater",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1089
+ },
+ {
   "name": "Yamazaki",
   "class": 5,
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 1672
+  "elo": 1770
  },
  {
   "name": "Breedme",
@@ -2296,7 +2472,7 @@
   "elo": 1815
  },
  {
-  "name": "Doichy",
+  "name": "Darkdoich",
   "class": 1,
   "race": 1,
   "level": 90,
@@ -2344,12 +2520,12 @@
   "elo": 1946
  },
  {
-  "name": "Arcieliza",
+  "name": "Qyotasa",
   "class": 11,
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 1194
+  "elo": 840
  },
  {
   "name": "Fantasy",
@@ -2360,20 +2536,12 @@
   "elo": 1899
  },
  {
-  "name": "Qyotasa",
+  "name": "Arcieliza",
   "class": 11,
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 840
- },
- {
-  "name": "Sunshot",
-  "class": 3,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 192
+  "elo": 1194
  },
  {
   "name": "Nike",
@@ -2461,7 +2629,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 2175
+  "elo": 2179
  },
  {
   "name": "Envyme",
@@ -2504,6 +2672,14 @@
   "elo": 1467
  },
  {
+  "name": "Realhalta",
+  "class": 2,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 96
+ },
+ {
   "name": "Knk",
   "class": 11,
   "race": 4,
@@ -2517,7 +2693,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1465
+  "elo": 1608
  },
  {
   "name": "Cuckoon",
@@ -2533,7 +2709,15 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1989
+  "elo": 2028
+ },
+ {
+  "name": "Prime",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 191
  },
  {
   "name": "Struxyz",
@@ -2541,7 +2725,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1241
+  "elo": 1279
  },
  {
   "name": "Cobaty",
@@ -2557,7 +2741,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1422
+  "elo": 1457
  },
  {
   "name": "Satella",
@@ -2576,6 +2760,14 @@
   "elo": 1276
  },
  {
+  "name": "Stark",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 191
+ },
+ {
   "name": "Shadowballs",
   "class": 5,
   "race": 1,
@@ -2590,6 +2782,14 @@
   "level": 90,
   "faction": 0,
   "elo": 1317
+ },
+ {
+  "name": "Xaaman",
+  "class": 3,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 570
  },
  {
   "name": "Struxy",
@@ -2616,6 +2816,14 @@
   "elo": 2122
  },
  {
+  "name": "Chernobyli",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "faction": 0,
+  "elo": 96
+ },
+ {
   "name": "Skanda",
   "class": 1,
   "race": 1,
@@ -2637,7 +2845,7 @@
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 1090
+  "elo": 1139
  },
  {
   "name": "Oak",
@@ -2656,7 +2864,15 @@
   "elo": 906
  },
  {
-  "name": "Ceo",
+  "name": "Thaaloub",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 192
+ },
+ {
+  "name": "Unclesam",
   "class": 7,
   "race": 3,
   "level": 90,
@@ -2664,7 +2880,7 @@
   "elo": 914
  },
  {
-  "name": "Unclesam",
+  "name": "Ceo",
   "class": 7,
   "race": 3,
   "level": 90,
@@ -2758,6 +2974,38 @@
   "level": 90,
   "faction": 1,
   "elo": 564
+ },
+ {
+  "name": "Zulmin",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "faction": 0,
+  "elo": 96
+ },
+ {
+  "name": "Deremir",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 96
+ },
+ {
+  "name": "Dopyheals",
+  "class": 7,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 96
+ },
+ {
+  "name": "Mandarynka",
+  "class": 9,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 96
  },
  {
   "name": "Exedia",
@@ -2952,36 +3200,12 @@
   "elo": 929
  },
  {
-  "name": "Slamxo",
-  "class": 1,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 753
- },
- {
-  "name": "Rittenhouse",
-  "class": 3,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 660
- },
- {
   "name": "Tachii",
   "class": 6,
   "race": 1,
   "level": 90,
   "faction": 0,
   "elo": 1113
- },
- {
-  "name": "Chromehearts",
-  "class": 8,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 814
  },
  {
   "name": "Epicgamer",
@@ -2997,7 +3221,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 382
+  "elo": 660
  },
  {
   "name": "Swagorz",
@@ -3024,20 +3248,20 @@
   "elo": 570
  },
  {
-  "name": "Heyupi",
-  "class": 11,
-  "race": 4,
-  "level": 90,
-  "faction": 0,
-  "elo": 753
- },
- {
   "name": "Greesaber",
   "class": 10,
   "race": 1,
   "level": 90,
   "faction": 0,
   "elo": 562
+ },
+ {
+  "name": "Pawstime",
+  "class": 11,
+  "race": 4,
+  "level": 90,
+  "faction": 0,
+  "elo": 96
  },
  {
   "name": "Videogame",
@@ -3056,12 +3280,20 @@
   "elo": 1214
  },
  {
-  "name": "Attention",
-  "class": 11,
-  "race": 4,
+  "name": "Grievuuz",
+  "class": 7,
+  "race": 3,
   "level": 90,
   "faction": 0,
-  "elo": 840
+  "elo": 1144
+ },
+ {
+  "name": "Bringanarmy",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1144
  },
  {
   "name": "Depreshn",
@@ -3192,6 +3424,14 @@
   "elo": 1287
  },
  {
+  "name": "Seidkona",
+  "class": 7,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 96
+ },
+ {
   "name": "Balthaxs",
   "class": 10,
   "race": 2,
@@ -3248,20 +3488,28 @@
   "elo": 96
  },
  {
+  "name": "Elryon",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 928
+ },
+ {
   "name": "Lokiakiraj",
   "class": 10,
   "race": 8,
   "level": 90,
   "faction": 1,
-  "elo": 96
+  "elo": 1010
  },
  {
-  "name": "Bijssitah",
-  "class": 7,
-  "race": 8,
+  "name": "Airxclap",
+  "class": 1,
+  "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 566
+  "elo": 819
  },
  {
   "name": "Svic",
@@ -3272,12 +3520,28 @@
   "elo": 989
  },
  {
-  "name": "Airxclap",
-  "class": 1,
-  "race": 2,
+  "name": "Gal",
+  "class": 2,
+  "race": 6,
   "level": 90,
   "faction": 1,
-  "elo": 566
+  "elo": 379
+ },
+ {
+  "name": "Bijssitah",
+  "class": 7,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 819
+ },
+ {
+  "name": "Khazdi",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 473
  },
  {
   "name": "Eth",
@@ -3293,7 +3557,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1286
+  "elo": 1433
  },
  {
   "name": "Bizy",
@@ -3341,7 +3605,15 @@
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 96
+  "elo": 474
+ },
+ {
+  "name": "Smokemid",
+  "class": 1,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 380
  },
  {
   "name": "Sergio",
@@ -3360,17 +3632,41 @@
   "elo": 660
  },
  {
+  "name": "Areutrolink",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 660
+ },
+ {
   "name": "Sava",
   "class": 2,
   "race": 10,
   "level": 90,
   "faction": 1,
-  "elo": 476
+  "elo": 749
+ },
+ {
+  "name": "Veggme",
+  "class": 3,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 660
  },
  {
   "name": "Topen",
   "class": 10,
   "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 1926
+ },
+ {
+  "name": "Pandora",
+  "class": 11,
+  "race": 8,
   "level": 90,
   "faction": 1,
   "elo": 1926
@@ -3384,20 +3680,12 @@
   "elo": 1016
  },
  {
-  "name": "Pandora",
-  "class": 11,
-  "race": 8,
-  "level": 90,
-  "faction": 1,
-  "elo": 1926
- },
- {
   "name": "Easytime",
   "class": 10,
   "race": 26,
   "level": 90,
   "faction": 1,
-  "elo": 569
+  "elo": 1132
  },
  {
   "name": "Wicid",
@@ -3416,8 +3704,24 @@
   "elo": 192
  },
  {
+  "name": "Pvp",
+  "class": 8,
+  "race": 5,
+  "level": 90,
+  "faction": 1,
+  "elo": 382
+ },
+ {
   "name": "Redline",
   "class": 9,
+  "race": 2,
+  "level": 90,
+  "faction": 1,
+  "elo": 96
+ },
+ {
+  "name": "Sisichitana",
+  "class": 6,
   "race": 2,
   "level": 90,
   "faction": 1,
@@ -3430,14 +3734,6 @@
   "level": 90,
   "faction": 1,
   "elo": 1014
- },
- {
-  "name": "Sisichitana",
-  "class": 6,
-  "race": 2,
-  "level": 90,
-  "faction": 1,
-  "elo": 96
  },
  {
   "name": "Opakna",
@@ -3477,7 +3773,7 @@
   "race": 2,
   "level": 90,
   "faction": 1,
-  "elo": 287
+  "elo": 664
  },
  {
   "name": "Dianabol",
@@ -3501,7 +3797,15 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1091
+  "elo": 1240
+ },
+ {
+  "name": "Orukas",
+  "class": 11,
+  "race": 6,
+  "level": 90,
+  "faction": 1,
+  "elo": 96
  },
  {
   "name": "Badrog",
@@ -3533,7 +3837,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 744
+  "elo": 1045
  },
  {
   "name": "Azahriah",
@@ -3557,7 +3861,7 @@
   "race": 22,
   "level": 90,
   "faction": 0,
-  "elo": 573
+  "elo": 907
  },
  {
   "name": "Wienio",
@@ -3584,12 +3888,44 @@
   "elo": 192
  },
  {
+  "name": "Poquelin",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "faction": 0,
+  "elo": 477
+ },
+ {
+  "name": "Snuskfager",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 381
+ },
+ {
   "name": "Dundersumpen",
   "class": 8,
   "race": 7,
   "level": 90,
   "faction": 0,
   "elo": 192
+ },
+ {
+  "name": "Hellobill",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 918
+ },
+ {
+  "name": "Arbashnemrak",
+  "class": 7,
+  "race": 3,
+  "level": 90,
+  "faction": 0,
+  "elo": 835
  },
  {
   "name": "Kowloon",
@@ -3645,7 +3981,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1477
+  "elo": 1576
  },
  {
   "name": "Dojacatfan",
@@ -3688,20 +4024,20 @@
   "elo": 192
  },
  {
-  "name": "Elizz",
-  "class": 5,
-  "race": 8,
-  "level": 90,
-  "faction": 1,
-  "elo": 1006
- },
- {
   "name": "Vacaneitor",
   "class": 11,
   "race": 6,
   "level": 90,
   "faction": 1,
   "elo": 916
+ },
+ {
+  "name": "Elizz",
+  "class": 5,
+  "race": 8,
+  "level": 90,
+  "faction": 1,
+  "elo": 1006
  },
  {
   "name": "Dingge",
@@ -3720,6 +4056,14 @@
   "elo": 754
  },
  {
+  "name": "Chiwave",
+  "class": 10,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1439
+ },
+ {
   "name": "Wintertouch",
   "class": 8,
   "race": 1,
@@ -3736,14 +4080,6 @@
   "elo": 1623
  },
  {
-  "name": "Chiwave",
-  "class": 10,
-  "race": 1,
-  "level": 90,
-  "faction": 0,
-  "elo": 1435
- },
- {
   "name": "Satsujin",
   "class": 10,
   "race": 1,
@@ -3752,12 +4088,28 @@
   "elo": 382
  },
  {
+  "name": "Hrqxz",
+  "class": 8,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 1134
+ },
+ {
+  "name": "Titangel",
+  "class": 1,
+  "race": 1,
+  "level": 90,
+  "faction": 0,
+  "elo": 996
+ },
+ {
   "name": "Rofmagexz",
   "class": 8,
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 2096
+  "elo": 2166
  },
  {
   "name": "Whiplasher",
@@ -3765,7 +4117,7 @@
   "race": 1,
   "level": 90,
   "faction": 0,
-  "elo": 1853
+  "elo": 2082
  },
  {
   "name": "Sunfire",
@@ -3781,6 +4133,6 @@
   "race": 4,
   "level": 90,
   "faction": 0,
-  "elo": 2144
+  "elo": 2246
  }
 ]
