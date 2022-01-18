@@ -11,4 +11,6 @@ request = {
     }
 }
 
+#print(request)
+
 print(json.dumps(json.loads(api.send(request).text), indent=1))
