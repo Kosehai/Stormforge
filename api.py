@@ -20,6 +20,5 @@ testrequest = {
 
 def send(request):
     request["secret"] = secret
-    print(request)
     r = requests.post(url, json=request)
     return r
